@@ -1,4 +1,4 @@
-name: KUKU
+name: KUKU22
 
 
 on: [push, workflow_dispatch]
